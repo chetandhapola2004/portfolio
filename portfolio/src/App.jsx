@@ -13,6 +13,7 @@ function App() {
   return (
     <div className="bg-[#0D1117] text-white">
       <Navbar />
+      <main className="pt-20"></main>
       <Hero />
       <About />
       <Projects />

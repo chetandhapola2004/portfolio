@@ -34,7 +34,7 @@ function Hero() {
   }, [letterIndex, wordIndex]);
 
   return (
-    <section className="min-h-screen flex items-center bg-[#0D1117] relative overflow-hidden">
+    <section className="min-h-screen flex items-center pt-24 lg:pt-0 bg-[#0D1117] relative overflow-hidden">
 
       {/* Background Glow */}
 
