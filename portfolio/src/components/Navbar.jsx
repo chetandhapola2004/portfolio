@@ -19,6 +19,7 @@ function Navbar() {
           <li><a href="#skills" className="hover:text-cyan-400 transition">Skills</a></li>
           <li><a href="#education" className="hover:text-cyan-400 transition">Education</a></li>
           <li><a href="#contact" className="hover:text-cyan-400 transition">Contact</a></li>
+
         </ul>
 
         {/* Socials + Resume */}
@@ -31,7 +32,7 @@ function Navbar() {
           >
             <FaGithub />
           </a>
-
+          
           <a
             href="https://linkedin.com/in/yourusername"
             target="_blank"

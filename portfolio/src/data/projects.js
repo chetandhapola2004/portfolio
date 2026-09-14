@@ -18,6 +18,11 @@ const projects = [
       "Google's Gemini API",
       "Puppeteer"
     ],
+    github:
+      "https://github.com/chetandhapola2004/HirePrep",
+
+    live:
+      "https://frontend-five-eta-itn72tgt3l.vercel.app/",
   },
   {
     id: 2,
