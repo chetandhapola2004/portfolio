@@ -6,7 +6,7 @@ This portfolio showcases my projects, technical skills, certifications, and achi
 
 ## 🔗 Live Demo
 
-👉 https://portfolio-chetan10.vercel.app/
+https://chetandhapola44.vercel.app/
 
 ---
 
